@@ -1,0 +1,2 @@
+Aporte de Jessica Garcia Barahona:
+Desarrollo de endpoints GET y POST.
